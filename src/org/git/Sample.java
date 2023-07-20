@@ -5,13 +5,13 @@ private void dummy() {
 	// TODO Auto-generated method stub
     System.out.println("Dummy");
 }
-private void username() {
+private void login() {
 	// TODO Auto-generated method stub
-System.out.println("This is done by arjun");
+System.out.println("This is done by sanjiv");
 }
 public static void main(String[] args) {
 	Sample s=new Sample();
 	s.dummy();
-	s.username();
+	s.login();
 }
 }
